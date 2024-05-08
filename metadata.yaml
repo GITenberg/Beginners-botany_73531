@@ -1,5 +1,8 @@
 _repo: Beginners-botany_73531
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73531-h/images/cover.jpg
 creator:
   author:
     agent_name: Bailey, L. H. (Liberty Hyde)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3089
     wikipedia: https://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73531#Beginners-botany
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
